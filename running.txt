@@ -1,0 +1,3 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS                          PORTS               NAMES
+ca3250486ebd        c1046c84e051        "/bin/sh -c 'pip ins…"   About a minute ago   Exited (2) About a minute ago                       gifted_elgamal
+3b10e6b42fa9        c1046c84e051        "/bin/sh -c 'pip ist…"   2 minutes ago        Exited (1) 2 minutes ago                            angry_cannon
